@@ -1,7 +1,7 @@
-# hackathon-2020
+# Hackathon:2020
 
-Team members: Fawaz, Vishnu, Monish
-Menntor: Shashank
+Team members: Fawaz, Vishnu, Monish </br>
+Mentor: Shashank
 
 # SAHYADRI - ALLTOP
 This website web scrapes all the necessary information a sahyadri student needs and gathers all that information on one page.
